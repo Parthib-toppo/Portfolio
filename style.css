@@ -12,7 +12,7 @@ a{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url(img/P3.jpg);
+    background: url(P3.jpg);
     background-size: cover;
 }
 nav{
